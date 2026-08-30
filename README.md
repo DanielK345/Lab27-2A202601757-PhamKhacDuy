@@ -9,11 +9,6 @@ tài chính thật. ChurnGuard giải quyết điểm cân bằng đó: **tự �
 động ít rủi ro khi bằng chứng đủ chắc chắn, đồng thời buộc con người kiểm soát
 mọi quyết định nhạy cảm hoặc chưa đủ tin cậy**.
 
-Đây là bài Lab 27 về LangGraph Human-in-the-Loop. Agent trong phiên bản này là
-một mô hình quyết định deterministic để bài lab chạy được mà không cần API key.
-Các node execution cũng mô phỏng kết quả bằng state, chưa gọi hệ thống email hay
-core banking thật.
-
 ## Bài toán được giải quyết
 
 Đầu vào của một lượt đánh giá gồm:
